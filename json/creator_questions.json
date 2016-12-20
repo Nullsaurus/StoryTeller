@@ -1,0 +1,11 @@
+{
+  "characterName":{
+  "creator_question":"characterRole",
+  "creator_step":2,
+  "question_text":"What role will this character play?",
+  "question_type":["single","multi","open"],
+  "question_choices":["Main","Supporting"],
+  "question_subchoices":["protagonist","antagonist","familial","friend","co-worker","other"]
+}
+}
+
